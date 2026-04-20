@@ -13,8 +13,8 @@ namespace Hola_Mundo.Controllers
 
         public IActionResult Privacy()
         {
-            int i = 0;
-            int j = 10 / i;
+            //int i = 0;
+            //int j = 10 / i;
             return View();
         }
 
